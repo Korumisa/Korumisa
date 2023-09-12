@@ -1,0 +1,111 @@
+body {
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.container {
+    width: 100%;
+    display: flex;
+    background-color: black;
+    margin: 0%;
+    height: 100px;;
+    position: fixed;
+}
+
+.Koru {
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+.Misa {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.name {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60%;
+    margin-left: 10%;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    list-style: none;
+}
+.menu {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.Pengalaman {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.AboutMe {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.Saran {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 20px;
+}
+
+
+
+.nav {
+    margin: 0%;
+    padding: 0%;
+    width: 40%;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+}
+
+.tabel {
+    margin: auto;
+    border: 2;
+    align-items: center;
+    align-content: center;
+    align-tracks: center;
+}
+
+.deskripsi {
+    font-size: large;
+    text-justify: distribute;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.Prestasi {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.skill {
+    margin: 10px;
+
+}
