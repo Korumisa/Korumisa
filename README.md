@@ -27,17 +27,21 @@
 ### Project pilihan
 
 <p>
-  <a href="https://github.com/Korumisa/E-Gabah"><img src="assets/card-egabah.svg" alt="E-Gabah" width="32%" /></a>
-  <a href="https://github.com/Korumisa/absenyura"><img src="assets/card-absenyura.svg" alt="absenyura" width="32%" /></a>
-  <a href="https://github.com/Korumisa/Baliticketchain"><img src="assets/card-baliticket.svg" alt="Baliticketchain" width="32%" /></a>
+  <a href="https://github.com/Korumisa/E-Gabah"><img src="assets/card-egabah.svg" alt="E-Gabah" width="48%" /></a>
+  <a href="https://github.com/Korumisa/attandance_system"><img src="assets/card-attendance.svg" alt="attandance_system" width="48%" /></a>
+</p>
+<p>
+  <a href="https://github.com/Korumisa/catatku"><img src="assets/card-catatku.svg" alt="catatku" width="48%" /></a>
+  <a href="https://github.com/Korumisa/segara-notes"><img src="assets/card-segaranotes.svg" alt="segara-notes" width="48%" /></a>
 </p>
 
 <p>
   <sub>
     Demo:
-    <a href="https://e-gabah.vercel.app">E-Gabah</a> Â·
-    <a href="https://absenyura.vercel.app">absenyura</a> Â·
-    <a href="https://github.com/Korumisa/luxuryphotography">luxuryphotography</a> (Laravel)
+    <a href="https://e-gabah.vercel.app">E-Gabah</a> ·
+    <a href="https://hmsdp.me">attandance_system</a> ·
+    <a href="https://catatku-eta.vercel.app">catatku</a> ·
+    <a href="https://github.com/Korumisa/segara-notes">segara-notes</a>
   </sub>
 </p>
 

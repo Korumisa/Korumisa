@@ -217,24 +217,31 @@ def main():
         ["TypeScript", "Supabase"],
         BLUE,
     ), encoding="utf-8")
-    (ASSETS / "card-absenyura.svg").write_text(card(
-        "absenyura",
-        "Absensi kampus: QR dinamis, GPS,",
-        "sidik perangkat, dan foto selfie.",
-        ["Vite", "TypeScript"],
+    (ASSETS / "card-attendance.svg").write_text(card(
+        "attandance_system",
+        "Sistem absensi full-stack dengan",
+        "Vite & Prisma.",
+        ["Vite", "Prisma"],
         VIOLET,
     ), encoding="utf-8")
-    (ASSETS / "card-baliticket.svg").write_text(card(
-        "Baliticketchain",
-        "Pemesanan tiket Bali dengan",
-        "Laravel (admin + pengguna).",
-        ["PHP", "Laravel"],
+    (ASSETS / "card-catatku.svg").write_text(card(
+        "catatku",
+        "Aplikasi pencatatan berbasis",
+        "TypeScript.",
+        ["TypeScript"],
         GREEN,
+    ), encoding="utf-8")
+    (ASSETS / "card-segaranotes.svg").write_text(card(
+        "segara-notes",
+        "MVP catatan bergaya Notion —",
+        "block editor.",
+        ["TypeScript"],
+        ORANGE,
         cta="Repo ↗",
     ), encoding="utf-8")
 
-    # Remove legacy card filenames
-    for old in ("card-catatku.svg", "card-attendance.svg", "card-portofolio.svg"):
+    # Remove unused legacy cards
+    for old in ("card-absenyura.svg", "card-baliticket.svg", "card-portofolio.svg"):
         p = ASSETS / old
         if p.exists():
             p.unlink()
