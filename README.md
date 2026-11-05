@@ -35,8 +35,8 @@
 <p>
   <sub>
     Demo:
-    <a href="https://e-gabah.vercel.app">E-Gabah</a> ·
-    <a href="https://absenyura.vercel.app">absenyura</a> ·
+    <a href="https://e-gabah.vercel.app">E-Gabah</a> Â·
+    <a href="https://absenyura.vercel.app">absenyura</a> Â·
     <a href="https://github.com/Korumisa/luxuryphotography">luxuryphotography</a> (Laravel)
   </sub>
 </p>
@@ -72,8 +72,8 @@
 ### Statistik
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Korumisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_radius=14" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korumisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14" height="165" alt="languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Korumisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_radius=14" height="165" alt="stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Korumisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14" height="165" alt="languages" />
 </p>
 
 <p>
