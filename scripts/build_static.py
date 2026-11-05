@@ -231,14 +231,6 @@ def main():
         ["TypeScript"],
         GREEN,
     ), encoding="utf-8")
-    (ASSETS / "card-segaranotes.svg").write_text(card(
-        "segara-notes",
-        "MVP catatan bergaya Notion —",
-        "block editor.",
-        ["TypeScript"],
-        ORANGE,
-        cta="Repo ↗",
-    ), encoding="utf-8")
 
     # Remove unused legacy cards
     for old in ("card-absenyura.svg", "card-baliticket.svg", "card-portofolio.svg"):
